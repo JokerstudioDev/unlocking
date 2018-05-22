@@ -13,10 +13,10 @@
 ---
 ![img](/imgs/ioniceco.png)
 ---
-### www.ionicframework.com
+### ionicframework.com
 ![img](/imgs/ioniclogo.png)
 ---
-### www.creator.ionic.io
+### creator.ionic.io
 ![img](/imgs/ioniccreator.png)
 ---
 ### End
